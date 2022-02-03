@@ -2,6 +2,7 @@
 
 ## Installation 
 
-```yarn
+```bash
+yarn
 yarn dev
 ```
